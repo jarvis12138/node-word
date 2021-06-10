@@ -1,0 +1,23 @@
+{
+  "name": "node-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarvis12138/node-word.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarvis12138/node-word/issues"
+  },
+  "homepage": "https://github.com/jarvis12138/node-word#readme",
+  "devDependencies": {
+    "docxtemplater": "^3.21.2",
+    "pizzip": "^3.0.6"
+  }
+}
